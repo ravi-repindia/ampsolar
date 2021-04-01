@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="533" viewBox="0 0 500 533">
+  <g id="Group_321" data-name="Group 321" transform="translate(-433 -1021)">
+    <path id="Polygon_12" data-name="Polygon 12" d="M165.75,0,221,96.5,165.75,193H55.25L0,96.5,55.25,0Z" transform="translate(572 1191)" fill="#d80e0e"/>
+    <path id="Polygon_15" data-name="Polygon 15" d="M129,0l43,74.5L129,149H43L0,74.5,43,0Z" transform="translate(761 1117)" fill="#ffb9b9"/>
+    <path id="Polygon_16" data-name="Polygon 16" d="M129,0l43,74.5L129,149H43L0,74.5,43,0Z" transform="translate(758 1310)" fill="#d1d1d1"/>
+    <path id="Polygon_17" data-name="Polygon 17" d="M128.25,0,171,75l-42.75,75H42.75L0,75,42.75,0Z" transform="translate(597 1404)" fill="#d1d1d1"/>
+    <path id="Polygon_18" data-name="Polygon 18" d="M128.25,0,171,74.5,128.25,149H42.75L0,74.5,42.75,0Z" transform="translate(438 1310)" fill="#d1d1d1"/>
+    <path id="Polygon_19" data-name="Polygon 19" d="M128.25,0,171,74.5,128.25,149H42.75L0,74.5,42.75,0Z" transform="translate(433 1117)" fill="#ffb9b9"/>
+    <path id="Polygon_20" data-name="Polygon 20" d="M129,0l43,75-43,75H43L0,75,43,0Z" transform="translate(598 1021)" fill="#ffb9b9"/>
+    <text id="One-Stop_Shop_for_Energy" data-name="One-Stop
+Shop for Energy" transform="translate(603 1257)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="30.41" y="21">One-Stop</tspan><tspan x="0.54" y="51">Shop for Energy</tspan></text>
+    <text id="Off-Site_Wind" data-name="Off-Site Wind" transform="translate(846 1198)" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="-56.245" y="0">Off-Site Wind</tspan></text>
+    <text id="On-Site_Solar" data-name="On-Site Solar" transform="translate(684 1102)" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="-55.956" y="0">On-Site Solar</tspan></text>
+    <text id="Off-Site_Solar" data-name="Off-Site Solar" transform="translate(518 1198)" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="-56.109" y="0">Off-Site Solar</tspan></text>
+    <text id="Storage" transform="translate(523 1391)" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="-33.456" y="0">Storage</tspan></text>
+    <text id="Energy_Management_Services" data-name="Energy 
+Management 
+Services" transform="translate(683 1459)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-29.216" y="0">Energy </tspan><tspan x="-56.56" y="25">Management </tspan><tspan x="-33.088" y="50">Services</tspan></text>
+    <text id="Wind_Hybrid" data-name="Wind/Hybrid" transform="translate(844 1391)" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="-53.04" y="0">Wind/Hybrid</tspan></text>
+  </g>
+</svg>
